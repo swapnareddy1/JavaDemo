@@ -41,6 +41,7 @@ public class ArrayDemo {
 		    obj[4]='y';
 		    System.out.println(obj[2]);
 		    System.out.println(obj.length);
+		    System.out.println("hello array");
 		    
 		    
 		    
